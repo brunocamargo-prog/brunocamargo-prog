@@ -27,7 +27,7 @@ Sou estudante de Engenharia de software, e estou estudando algumas linguagens de
 <div> 
  
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunocamargo-prog&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocamargo-prog&layout=compact&langs_count=16&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunocamargo-prog&show_icons=true&theme=dark#gh-dark-mode-only"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocamargo-prog&layout=compact&theme=dark#gh-dark-mode-only"/>
   
 </div>
